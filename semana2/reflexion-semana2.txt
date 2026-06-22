@@ -1,0 +1,8 @@
+La terminal es una herramienta fundamental para cualquier desarrollador, ya que permite
+interactuar directamente con el sistema operativo de forma rápida y precisa.
+A través de comandos como mkdir, cd y touch, es posible organizar la estructura
+de un proyecto de manera eficiente, sin depender de interfaces gráficas.
+
+Saber navegar por el sistema de archivos desde la terminal ayuda a entender cómo
+están organizados los proyectos y
+
